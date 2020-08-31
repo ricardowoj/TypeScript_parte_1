@@ -1,4 +1,4 @@
-class NegociacaoCOntroller {
+class NegociacaoController {
 
     private _inputData;
     private _inputQuantidade;
